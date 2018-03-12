@@ -44,14 +44,21 @@ body {
 	  .page {
 		  	position: initial;
  			margin: 0;
+		  	padding: initial;
 			border: initial;
 			border-radius: initial;
-			width: initial; 
-			min-height: initial;
+/* 			width: initial;  */
+/* 			min-height: initial; */
 			box-shadow: initial;
 			background: initial;
 			page-break-after: always;
 	  }   
+/* 	  .subpage {
+		  padding: 1cm;
+		  border: 5px #ccc solid;
+		  height: 257mm;
+		  outline: 2cm whitesmoke solid;
+ 	} */
     .no-print, .no-print * {
         display: none !important;
     }	 
