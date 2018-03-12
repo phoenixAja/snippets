@@ -43,14 +43,14 @@ body {
 	  } */
 	  .page {
 		  	position: initial;
- 			margin: initial;
+ 			margin: 100px;
 			border: initial;
 			border-radius: initial;
-			width: initial; 
+/* 			width: initial;  */
 		  	
-			min-height: initial;
+/* 			min-height: initial; */
 			box-shadow: initial;
-			background: initial;
+/* 			background: initial; */
 /* 		  	height: 297mm;  */
 /* 		  	padding-top: 150px; */
 			page-break-after: always;
