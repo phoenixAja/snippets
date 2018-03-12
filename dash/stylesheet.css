@@ -35,20 +35,20 @@ body {
 	  margin: 0;
  }
  @media print {
-/* 	  html, body {
-		  	margin: initial;
-		  	padding: initial;
+	  html, body {
+/* 		  	margin: initial;
+		  	padding: initial; */
 			width: 210mm;
 			height: 297mm;        
-	  } */
+	  }
 	  .page {
 		  	position: initial;
  			margin: 100px;
 			border: initial;
 			border-radius: initial;
-/* 			width: initial;  */
+			width: initial; 
 		  	
-/* 			min-height: initial; */
+			min-height: initial;
 			box-shadow: initial;
 /* 			background: initial; */
 /* 		  	height: 297mm;  */
