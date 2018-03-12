@@ -49,10 +49,10 @@ body {
 			page-break-after: always;
 	  }   
 	  .subpage {
-		  #padding: 1cm;
+/* 		  padding: 1cm; */
 		  border: 5px #ccc solid;
 		  height: 257mm;
-		  #outline: 2cm whitesmoke solid;
+/* 		  outline: 2cm whitesmoke solid; */
  	}
     .no-print, .no-print * {
         display: none !important;
