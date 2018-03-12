@@ -43,10 +43,11 @@ body {
 /* 			margin: 0;
 			border: initial;
 			border-radius: initial;
-			width: initial;
-			min-height: initial; */
+			width: initial; */
+			min-height: initial;
 /* 			box-shadow: initial;
 			background: initial; */
+/* 		  	height: 297mm;  */
 		  	padding-top: 150px;
 			page-break-after: always;
 	  }   
