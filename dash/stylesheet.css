@@ -3,7 +3,8 @@ body {
 	  height: 100%;
 	  margin: 0;
 	  padding: 0;
-	  background-color: #FAFAFA;
+	  #background-color: #FAFAFA;
+	  background-color: #FFB6C1
 	  font-size: 1.1rem;
 	  line-height: 1.3;
  }
