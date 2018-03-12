@@ -35,10 +35,10 @@ body {
 	  margin: 0;
  }
  @media print {
-	  html, body {
+/* 	  html, body {
 			width: 210mm;
 			height: 297mm;        
-	  }
+	  } */
 	  .page {
 /* 			margin: 0; */
 /* 			border: initial;
