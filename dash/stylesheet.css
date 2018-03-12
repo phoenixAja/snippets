@@ -40,9 +40,9 @@ body {
 			height: 297mm;        
 	  }
 	  .page {
-		  	position: initial;
+/* 		  	position: initial; */
  			margin: 0;
-		  	padding: initial;
+/* 		  	padding: initial; */
 			border: initial;
 			border-radius: initial;
 			width: 190; 
