@@ -47,6 +47,7 @@ body {
 			min-height: initial;
 			box-shadow: initial;
 			background: initial; */
+		  	padding-top: 25px;
 			page-break-after: always;
 	  }   
     .no-print, .no-print * {
