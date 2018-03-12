@@ -48,12 +48,7 @@ body {
 			background: initial;
 			page-break-after: always;
 	  }   
-	  .subpage {
-		  padding: 0;
-		  border: 5px #ccc solid;
-		  height: 257mm;
-/* 		  outline: 2cm whitesmoke solid; */
- 	}
+
     .no-print, .no-print * {
         display: none !important;
     }	 
