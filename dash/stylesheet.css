@@ -36,6 +36,8 @@ body {
  }
  @media print {
 	  html, body {
+		  	margin: initial;
+		  	padding: initial;
 			width: 210mm;
 			height: 297mm;        
 	  }
