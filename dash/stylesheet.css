@@ -40,10 +40,10 @@ body {
 			height: 297mm;        
 	  } */
 	  .page {
-/* 			margin: 0;
-			border: initial;
+ 			margin: 0;
+/* 			border: initial;
 			border-radius: initial;
-			width: initial; */
+			width: initial;  */
 			min-height: initial;
 /* 			box-shadow: initial;
 			background: initial; */
