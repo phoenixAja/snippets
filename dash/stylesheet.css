@@ -49,7 +49,7 @@ body {
 			page-break-after: always;
 	  }   
 	  .subpage {
-/* 		  padding: 1cm; */
+		  padding: 0;
 		  border: 5px #ccc solid;
 		  height: 257mm;
 /* 		  outline: 2cm whitesmoke solid; */
