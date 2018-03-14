@@ -29,6 +29,11 @@ body {
 	  outline: 2cm whitesmoke solid;
  }
 
+.dd {
+	background-color: transparent;
+	height:38px;
+}
+
  @page {
 	  size: A4;
 	  margin: 0;
